@@ -1,0 +1,10 @@
+**/node_modules/
+ts/build
+
+py_requests/req_venv
+python/venv
+
+**/__pycache__/
+
+**/venv/
+**/.venv/
