@@ -24,11 +24,6 @@ app.register(fastify_view, {
 });
 
 
-// app.register(fastify_static, {
-//     root: path.join(dirname, "static"),
-//     prefix: "/static/",
-// });
-
 interface IParamsThing {
     query: string;
 }
